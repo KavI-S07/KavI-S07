@@ -6,7 +6,7 @@
   <a href="https://kavimalar-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-bb9af7?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/kavimalar-s-5a3b78374/">
+  <a href="https://www.linkedin.com/in/s-kavimalar-5a3b78374/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/KavI-S07">
@@ -76,8 +76,14 @@
 - Python & Artificial Intelligence — Udemy
 - Data Structures and Algorithms — Simplilearn
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KavI-S07&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavI-S07&layout=compact&theme=tokyonight" height="165" />
+</p>
 
+---
 
 <h3 align="center">✨ Building. Learning. Growing. ✨</h3>
 <p align="center">Thanks for visiting my profile! 💜</p>
